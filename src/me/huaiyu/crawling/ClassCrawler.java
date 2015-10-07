@@ -9,22 +9,27 @@ import com.crawljax.core.configuration.CrawljaxConfiguration;
 import com.crawljax.core.configuration.CrawljaxConfiguration.CrawljaxConfigurationBuilder;
 import com.crawljax.plugins.crawloverview.CrawlOverview;
 
-/**
- * Crawls our demo site with the default configuration. The crawl will log what it's doing but will
- * not produce any output.
- */
-public class SimplestExample {
-
-	/**
-	 * Run this method to start the crawl.
-	 */
+public class ClassCrawler {
 	public static void main(String[] args) {
-		CrawljaxConfigurationBuilder builder = CrawljaxConfiguration.builderFor("http://demo.crawljax.com/");
+		String url = "http://demo.crawljax.com/";
+		String outputDir = "test3";
+		ClassCrawler bot = new ClassCrawler(url, outputDir);
+		bot.crawl();
+		//System.exit(0);
+	}
+	
+	CrawljaxRunner crawljax;
+	
+	public ClassCrawler(String url, String outputDir) {
+		CrawljaxConfigurationBuilder builder = CrawljaxConfiguration.builderFor(url);
 		builder.setBrowserConfig(new BrowserConfiguration(BrowserType.CHROME, 2));
-		builder.setOutputDirectory(new File("test"));
+		builder.setOutputDirectory(new File(outputDir));
 		builder.addPlugin(new CrawlOverview());
-		CrawljaxRunner crawljax =
-		        new CrawljaxRunner(builder.build());
+
+		crawljax = new CrawljaxRunner(builder.build());
+	}
+	
+	public void crawl() {
 		crawljax.call();
 	}
 }
