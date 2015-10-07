@@ -1,6 +1,7 @@
 package me.huaiyu.crawling;
 
 import java.io.File;
+import java.util.concurrent.TimeUnit;
 
 import com.crawljax.browser.EmbeddedBrowser.BrowserType;
 import com.crawljax.core.CrawljaxRunner;
@@ -12,7 +13,7 @@ import com.crawljax.plugins.crawloverview.CrawlOverview;
 public class ClassCrawler {
 	public static void main(String[] args) {
 		String url = "https://webapp.mis.vanderbilt.edu/more/SearchClasses!input.action";
-		String outputDir = "test2";
+		String outputDir = "test";
 		ClassCrawler bot = new ClassCrawler(url, outputDir);
 		bot.crawl();
 		//System.exit(0);
@@ -26,13 +27,28 @@ public class ClassCrawler {
 		builder.setOutputDirectory(new File(outputDir));
 		builder.addPlugin(new CrawlOverview());
 		builder.crawlRules().insertRandomDataInInputForms(false);
-		builder.crawlRules().clickElementsInRandomOrder(true);
+		builder.crawlRules().clickElementsInRandomOrder(false);
+		builder.crawlRules().crawlHiddenAnchors(true);
+		builder.crawlRules().waitAfterEvent(10000, TimeUnit.MILLISECONDS);
 		
-		builder.crawlRules().click("a").underXPath("//DIV[@id='advancedSearchLink']");
-		builder.crawlRules().click("button").underXPath("//DIV[@id='subjAreaButton-button']");
-		builder.crawlRules().click("input").underXPath("//DIV[@id='subjAreaMultiSelectOption145']");
-		builder.crawlRules().click("button").underXPath("//DIV[@id='advancedSearchClassesSubmit-button']");
-
+		/*InputSpecification input = new InputSpecification();
+		Form inputForm = new Form();
+		inputForm.field("searchClassSectionsInput").setValue("es 1401");
+		input.setValuesInForm(inputForm).beforeClickElement("button").withAttribute("title", "Search Classes");
+		builder.crawlRules().setInputSpec(input);*/
+		
+		//builder.crawlRules().click("input").withAttribute("id", "searchClassSectionsInput");
+		//builder.crawlRules().click("button").withAttribute("title", "Search Classes");
+		builder.crawlRules().click("a").withAttribute("id", "advancedSearchLink");
+		builder.crawlRules().click("input").withAttribute("title", "Mathematics");
+		builder.crawlRules().click("button").withAttribute("id", "advancedSearchClassesSubmit-button");
+		builder.crawlRules().clickOnce(false);
+		
+		//builder.crawlRules().click("a").withAttribute("id", "advancedSearchLink");
+		//builder.crawlRules().click("input").withAttribute("id", "advancedSearchForm_searchCriteria_classStatusCodes");
+		//builder.crawlRules().click("span").withAttribute("id", "subjAreaButton");
+		//builder.crawlRules().click("input").withAttribute("id", "subjAreaMultiSelectOption145");
+		//builder.crawlRules().click("button").withAttribute("id", "advancedSearchClassesSubmit-button");
 
 		crawljax = new CrawljaxRunner(builder.build());
 	}

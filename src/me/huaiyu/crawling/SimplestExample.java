@@ -19,7 +19,7 @@ public class SimplestExample {
 	 * Run this method to start the crawl.
 	 */
 	public static void main(String[] args) {
-		CrawljaxConfigurationBuilder builder = CrawljaxConfiguration.builderFor("http://demo.crawljax.com/");
+		CrawljaxConfigurationBuilder builder = CrawljaxConfiguration.builderFor("https://webapp.mis.vanderbilt.edu/more/SearchClasses!input.action?commodoreIdToLoad=C04220215");
 		builder.setBrowserConfig(new BrowserConfiguration(BrowserType.CHROME, 2));
 		builder.setOutputDirectory(new File("test"));
 		builder.addPlugin(new CrawlOverview());
