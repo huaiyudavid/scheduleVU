@@ -8,16 +8,18 @@ public class MySQLWrapper
 {
 	Connection dbConnection;
 	
-	final String host;
+	/*final String host;
     final String dbName;
     final String username;
-    final String password;
+    final String password;*/
     
     public MySQLWrapper(String host, String dbName, String username, String password) {
-    	this.host = host;
+    	/*this.host = host;
     	this.dbName = dbName;
     	this.username = username;
-    	this.password = password;
+    	this.password = password;*/
+    	
+    	dbConnection = getNewConnection(host, dbName, username, password);
     }
     
     public MySQLWrapper() {
