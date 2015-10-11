@@ -1,0 +1,3465 @@
+name: CS 1101: Programming and Problem Solving
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 10:10a - 11:00a
+location: Featheringill Hall 134
+professor: Tairas, Robert A.
+
+name: CS 1101: Programming and Problem Solving
+sectionNum: 02
+hours: 3
+type: Lecture
+days: MWF
+time: 02:10p - 03:00p
+location: Featheringill Hall 134
+professor: Johnson, Julie L.
+
+name: CS 1103: Introductory Programming for Engineers and Scientists
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 01:10p - 02:00p
+location: Featheringill Hall 134
+professor: Tairas, Robert A.
+
+name: CS 1151: Computers and Ethics
+sectionNum: 01
+hours: 3
+type: Lecture
+days: TR
+time: 01:10p - 02:25p
+location: Featheringill Hall 136
+professor: Kauppila, Amy V.
+
+name: CS 1151: Computers and Ethics
+sectionNum: 02
+hours: 3
+type: Lecture
+days: TR
+time: 02:35p - 03:50p
+location: Featheringill Hall 136
+professor: Kauppila, Amy V.
+
+name: CS 1151: Computers and Ethics
+sectionNum: 03
+hours: 3
+type: Lecture
+days: TR
+time: 11:00a - 12:15p
+location: Featheringill Hall 138
+professor: Witulski, Arthur
+
+name: CS 1151: Computers and Ethics
+sectionNum: 04
+hours: 3
+type: Lecture
+days: MWF
+time: 01:10p - 02:00p
+location: Featheringill Hall 110
+professor: Myers, Michael R.
+
+name: CS 2201: Program Design and Data Structures
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 11:10a - 12:00p
+location: Featheringill Hall 138
+professor: Roth, Gerald
+
+name: CS 2201: Program Design and Data Structures
+sectionNum: 02
+hours: 3
+type: Lecture
+days: MWF
+time: 10:10a - 11:00a
+location: Featheringill Hall 136
+professor: Roth, Gerald
+
+name: CS 2201: Program Design and Data Structures
+sectionNum: 03
+hours: 3
+type: Lecture
+days: MWF
+time: 09:10a - 10:00a
+location: Featheringill Hall 136
+professor: Roth, Gerald
+
+name: CS 2212: Discrete Structures
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 01:10p - 02:00p
+location: Featheringill Hall 138
+professor: Johnson, Julie L.
+
+name: CS 2231: Computer Organization
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 02:10p - 03:00p
+location: Featheringill Hall 110
+professor: Tairas, Robert A.
+
+name: CS 2231: Computer Organization
+sectionNum: 02
+hours: 3
+type: Lecture
+days: TR
+time: 11:00a - 12:15p
+location: Featheringill Hall 258
+professor: Gokhale, Aniruddha S.
+
+name: CS 3250: Algorithms
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 01:10p - 02:00p
+location: Stevenson Center 5306
+professor: Spinrad, Jeremy P.
+
+name: CS 3251: Intermediate Software Design
+sectionNum: 01
+hours: 3
+type: Lecture
+days: TR
+time: 09:35a - 10:50a
+location: Featheringill Hall 134
+professor: Otte, William R. | Balasubramanian, Daniel A.
+
+name: CS 3259: Project in Computer Animation Design and Technology
+sectionNum: 01
+hours: 3
+type: Lecture
+days: TR
+time: 11:00a - 12:15p
+location: Featheringill Hall 244
+professor: Bodenheimer, Robert E.
+
+name: CS 3270: Programming Languages
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 02:10p - 03:00p
+location: Stevenson Center 5306
+professor: Roth, Gerald
+
+name: CS 3281: Principles of Operating Systems I
+sectionNum: 01
+hours: 3
+type: Lecture
+days: TR
+time: 01:10p - 02:25p
+location: Featheringill Hall 132
+professor: Dubey, Abhishek
+
+name: CS 3282: Principles of Operating Systems II
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MW
+time: 03:10p - 04:25p
+location: Featheringill Hall 132
+professor: Schmidt, Douglas C.
+
+name: CS 3860: Undergraduate Research
+sectionNum: 01
+hours: 1
+type: Research
+days: TBA
+time: TBA
+location: TBA
+professor: White, Christopher J.
+
+name: CS 3860: Undergraduate Research
+sectionNum: 02
+hours: 1
+type: Research
+days: TBA
+time: TBA
+location: TBA
+professor: Malin, Bradley A.
+
+name: CS 3860: Undergraduate Research
+sectionNum: 03
+hours: 1
+type: Research
+days: TBA
+time: TBA
+location: TBA
+professor: Bodenheimer, Robert E.
+
+name: CS 3860: Undergraduate Research
+sectionNum: 04
+hours: 1
+type: Research
+days: TBA
+time: TBA
+location: TBA
+professor: Landman, Bennett A.
+
+name: CS 3860: Undergraduate Research
+sectionNum: 05
+hours: 1
+type: Research
+days: TBA
+time: TBA
+location: TBA
+professor: Gokhale, Aniruddha S.
+
+name: CS 3860: Undergraduate Research
+sectionNum: 06
+hours: 1
+type: Research
+days: TBA
+time: TBA
+location: TBA
+professor: Roth, Gerald
+
+name: CS 3860: Undergraduate Research
+sectionNum: 07
+hours: 1
+type: Research
+days: TBA
+time: TBA
+location: TBA
+professor: Adams, Julie
+
+name: CS 3860: Undergraduate Research
+sectionNum: 08
+hours: 1
+type: Research
+days: TBA
+time: TBA
+location: TBA
+professor: Schmidt, Douglas C.
+
+name: CS 3860: Undergraduate Research
+sectionNum: 09
+hours: 1
+type: Research
+days: TBA
+time: TBA
+location: TBA
+professor: Hemingway, Graham S.
+
+name: CS 3860: Undergraduate Research
+sectionNum: 10
+hours: 1
+type: Research
+days: TBA
+time: TBA
+location: TBA
+professor: Vorobeychik, Yevgeniy
+
+name: CS 3860: Undergraduate Research
+sectionNum: 11
+hours: 1
+type: Research
+days: TBA
+time: TBA
+location: TBA
+professor: Biswas, Gautam
+
+name: CS 3860: Undergraduate Research
+sectionNum: 12
+hours: 1
+type: Research
+days: TBA
+time: TBA
+location: TBA
+professor: Fisher, Douglas H.
+
+name: CS 3861: Undergraduate Research
+sectionNum: 01
+hours: 1
+type: Research
+days: TBA
+time: TBA
+location: TBA
+professor: Fisher, Douglas H.
+
+name: CS 3892: Special Topics - Human-Computer Interaction
+sectionNum: 01
+hours: 3
+type: Lecture
+days: TR
+time: 09:35a - 10:50a
+location: Featheringill Hall 258
+professor: Adams, Julie
+
+name: CS 3892: Special Topics - Web Programming
+sectionNum: 02
+hours: 3
+type: Lecture
+days: MWF
+time: 11:10a - 12:00p
+location: Featheringill Hall 258
+professor: Hemingway, Graham S.
+
+name: CS 4260: Artificial Intelligence
+sectionNum: 01
+hours: 3
+type: Lecture
+days: TR
+time: 02:35p - 03:50p
+location: Featheringill Hall 132
+professor: Vorobeychik, Yevgeniy
+
+name: CS 4278: Principles of Software Engineering
+sectionNum: 01
+hours: 3
+type: Lecture
+days: TR
+time: 11:00a - 12:15p
+location: Olin Hall 131
+professor: White, Christopher J.
+
+name: CS 4285: Network Security
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 02:10p - 03:00p
+location: Featheringill Hall 129
+professor: 
+
+name: CS 4287: Principles of Cloud Computing
+sectionNum: 01
+hours: 3
+type: Lecture
+days: TR
+time: 01:10p - 02:25p
+location: Featheringill Hall 258
+professor: Gokhale, Aniruddha S.
+
+name: CS 4959: Computer Science Project Seminar
+sectionNum: 01
+hours: 1
+type: Lecture
+days: R
+time: 04:00p - 04:50p
+location: Featheringill Hall 129
+professor: Bodenheimer, Robert E.
+
+name: CS 5250: Algorithms
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 01:10p - 02:00p
+location: Stevenson Center 5306
+professor: Spinrad, Jeremy P.
+
+name: CS 5251: Intermediate Software Design
+sectionNum: 01
+hours: 3
+type: Lecture
+days: TR
+time: 09:35a - 10:50a
+location: Featheringill Hall 134
+professor: Otte, William R. | Balasubramanian, Daniel A.
+
+name: CS 5259: Project in Computer Animation Design and Technology
+sectionNum: 01
+hours: 3
+type: Lecture
+days: TR
+time: 11:00a - 12:15p
+location: Featheringill Hall 244
+professor: Bodenheimer, Robert E.
+
+name: CS 5260: Artificial Intelligence
+sectionNum: 01
+hours: 3
+type: Lecture
+days: TR
+time: 02:35p - 03:50p
+location: Featheringill Hall 132
+professor: Vorobeychik, Yevgeniy
+
+name: CS 5270: Programming Languages
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 02:10p - 03:00p
+location: Stevenson Center 5306
+professor: Roth, Gerald
+
+name: CS 5278: Principles of Software Engineering
+sectionNum: 01
+hours: 3
+type: Lecture
+days: TR
+time: 11:00a - 12:15p
+location: Olin Hall 131
+professor: White, Christopher J.
+
+name: CS 5281: Principles of Operating Systems I
+sectionNum: 01
+hours: 3
+type: Lecture
+days: TR
+time: 01:10p - 02:25p
+location: Featheringill Hall 132
+professor: Dubey, Abhishek
+
+name: CS 5282: Principles of Operating Systems II
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MW
+time: 03:10p - 04:25p
+location: Featheringill Hall 132
+professor: Schmidt, Douglas C.
+
+name: CS 5285: Network Security
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 02:10p - 03:00p
+location: Featheringill Hall 129
+professor: Xue, Yuan
+
+name: CS 5287: Principles of Cloud Computing
+sectionNum: 01
+hours: 3
+type: Lecture
+days: TR
+time: 01:10p - 02:25p
+location: Featheringill Hall 258
+professor: Gokhale, Aniruddha S.
+
+name: CS 5892: Special Topics - Web Programming
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 11:10a - 12:00p
+location: Featheringill Hall 258
+professor: Hemingway, Graham S.
+
+name: CS 6311: Graph Algorithms
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 10:10a - 11:00a
+location: Featheringill Hall 258
+professor: Spinrad, Jeremy P.
+
+name: CS 6352: Human-Computer Interaction
+sectionNum: 01
+hours: 3
+type: Lecture
+days: TR
+time: 09:35a - 10:50a
+location: Featheringill Hall 258
+professor: Adams, Julie
+
+name: CS 6364: Intelligent Learning Environments
+sectionNum: 01
+hours: 3
+type: Lecture
+days: TR
+time: 02:35p - 03:50p
+location: Featheringill Hall 258
+professor: Biswas, Gautam
+
+name: CS 6376: Foundations of Hybrid and Embedded Systems
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MW
+time: 03:10p - 04:25p
+location: Featheringill Hall 244
+professor: Koutsoukos, Xenofon D.
+
+name: CS 6388: Model-Integrated Computing
+sectionNum: 01
+hours: 3
+type: Lecture
+days: TR
+time: 04:00p - 05:15p
+location: Featheringill Hall 136
+professor: Sztipanovits, Janos
+
+name: CS 7999: Master's Thesis Research
+sectionNum: 01
+hours: 0
+type: Masters Thesis Research
+days: TBA
+time: TBA
+location: TBA
+professor: Sarkar, Nilanjan
+
+name: CS 7999: Master's Thesis Research
+sectionNum: 03
+hours: 0
+type: Masters Thesis Research
+days: TBA
+time: TBA
+location: TBA
+professor: Adams, Julie
+
+name: CS 7999: Master's Thesis Research
+sectionNum: 04
+hours: 0
+type: Masters Thesis Research
+days: TBA
+time: TBA
+location: TBA
+professor: Biswas, Gautam
+
+name: CS 7999: Master's Thesis Research
+sectionNum: 05
+hours: 0
+type: Masters Thesis Research
+days: TBA
+time: TBA
+location: TBA
+professor: Bodenheimer, Robert E.
+
+name: CS 7999: Master's Thesis Research
+sectionNum: 07
+hours: 0
+type: Masters Thesis Research
+days: TBA
+time: TBA
+location: TBA
+professor: Fitzpatrick, J. Michael
+
+name: CS 7999: Master's Thesis Research
+sectionNum: 08
+hours: 0
+type: Masters Thesis Research
+days: TBA
+time: TBA
+location: TBA
+professor: Gokhale, Aniruddha S.
+
+name: CS 7999: Master's Thesis Research
+sectionNum: 09
+hours: 0
+type: Masters Thesis Research
+days: TBA
+time: TBA
+location: TBA
+professor: Koutsoukos, Xenofon D.
+
+name: CS 7999: Master's Thesis Research
+sectionNum: 10
+hours: 0
+type: Masters Thesis Research
+days: TBA
+time: TBA
+location: TBA
+professor: Schmidt, Douglas C.
+
+name: CS 7999: Master's Thesis Research
+sectionNum: 11
+hours: 0
+type: Masters Thesis Research
+days: TBA
+time: TBA
+location: TBA
+professor: Spinrad, Jeremy P.
+
+name: CS 7999: Master's Thesis Research
+sectionNum: 12
+hours: 0
+type: Masters Thesis Research
+days: TBA
+time: TBA
+location: TBA
+professor: Xue, Yuan
+
+name: CS 7999: Master's Thesis Research
+sectionNum: 13
+hours: 0
+type: Masters Thesis Research
+days: TBA
+time: TBA
+location: TBA
+professor: Dawant, Benoit
+
+name: CS 7999: Master's Thesis Research
+sectionNum: 14
+hours: 0
+type: Masters Thesis Research
+days: TBA
+time: TBA
+location: TBA
+professor: Karsai, Gabor
+
+name: CS 7999: Master's Thesis Research
+sectionNum: 15
+hours: 0
+type: Masters Thesis Research
+days: TBA
+time: TBA
+location: TBA
+professor: Neema, Sandeep K.
+
+name: CS 7999: Master's Thesis Research
+sectionNum: 16
+hours: 0
+type: Masters Thesis Research
+days: TBA
+time: TBA
+location: TBA
+professor: Malin, Bradley A.
+
+name: CS 7999: Master's Thesis Research
+sectionNum: 17
+hours: 0
+type: Masters Thesis Research
+days: TBA
+time: TBA
+location: TBA
+professor: Bapty, Theodore
+
+name: CS 7999: Master's Thesis Research
+sectionNum: 18
+hours: 0
+type: Masters Thesis Research
+days: TBA
+time: TBA
+location: TBA
+professor: Fisher, Douglas H.
+
+name: CS 7999: Master's Thesis Research
+sectionNum: 19
+hours: 0
+type: Masters Thesis Research
+days: TBA
+time: TBA
+location: TBA
+professor: Ledeczi, Akos
+
+name: CS 7999: Master's Thesis Research
+sectionNum: 21
+hours: 0
+type: Masters Thesis Research
+days: TBA
+time: TBA
+location: TBA
+professor: White, Christopher J.
+
+name: CS 7999: Master's Thesis Research
+sectionNum: 22
+hours: 0
+type: Masters Thesis Research
+days: TBA
+time: TBA
+location: TBA
+professor: Sztipanovits, Janos
+
+name: CS 7999: Master's Thesis Research
+sectionNum: 23
+hours: 0
+type: Masters Thesis Research
+days: TBA
+time: TBA
+location: TBA
+professor: Fabbri, Daniel
+
+name: CS 8390: Individual Studies
+sectionNum: 01
+hours: 1
+type: Directed Study
+days: TBA
+time: TBA
+location: TBA
+professor: Fabbri, Daniel
+
+name: CS 8390: Individual Studies
+sectionNum: 02
+hours: 1
+type: Directed Study
+days: TBA
+time: TBA
+location: TBA
+professor: Spinrad, Jeremy P.
+
+name: CS 8390: Individual Studies
+sectionNum: 03
+hours: 1
+type: Directed Study
+days: TBA
+time: TBA
+location: TBA
+professor: White, Christopher J.
+
+name: CS 8390: Individual Studies
+sectionNum: 04
+hours: 1
+type: Directed Study
+days: TBA
+time: TBA
+location: TBA
+professor: Fisher, Douglas H.
+
+name: CS 8390: Individual Studies
+sectionNum: 05
+hours: 1
+type: Directed Study
+days: TBA
+time: TBA
+location: TBA
+professor: Vorobeychik, Yevgeniy
+
+name: CS 8390: Individual Studies
+sectionNum: 06
+hours: 1
+type: Directed Study
+days: TBA
+time: TBA
+location: TBA
+professor: Gokhale, Aniruddha S.
+
+name: CS 8390: Individual Studies
+sectionNum: 07
+hours: 1
+type: Directed Study
+days: TBA
+time: TBA
+location: TBA
+professor: White, Christopher J.
+
+name: CS 8390: Individual Studies
+sectionNum: 08
+hours: 1
+type: Directed Study
+days: TBA
+time: TBA
+location: TBA
+professor: Schmidt, Douglas C.
+
+name: CS 8999: Non-Candidate Research
+sectionNum: 01
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Gokhale, Aniruddha S.
+
+name: CS 8999: Non-Candidate Research
+sectionNum: 02
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Schmidt, Douglas C.
+
+name: CS 8999: Non-Candidate Research
+sectionNum: 03
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Karsai, Gabor
+
+name: CS 8999: Non-Candidate Research
+sectionNum: 04
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Biswas, Gautam
+
+name: CS 8999: Non-Candidate Research
+sectionNum: 05
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Fitzpatrick, J. Michael
+
+name: CS 8999: Non-Candidate Research
+sectionNum: 06
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Sztipanovits, Janos
+
+name: CS 8999: Non-Candidate Research
+sectionNum: 07
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Adams, Julie
+
+name: CS 8999: Non-Candidate Research
+sectionNum: 08
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Dawant, Benoit
+
+name: CS 8999: Non-Candidate Research
+sectionNum: 09
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Koutsoukos, Xenofon D.
+
+name: CS 8999: Non-Candidate Research
+sectionNum: 10
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Xue, Yuan
+
+name: CS 8999: Non-Candidate Research
+sectionNum: 11
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Spinrad, Jeremy P.
+
+name: CS 8999: Non-Candidate Research
+sectionNum: 12
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Bodenheimer, Robert E.
+
+name: CS 8999: Non-Candidate Research
+sectionNum: 13
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Malin, Bradley A.
+
+name: CS 8999: Non-Candidate Research
+sectionNum: 14
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Bapty, Theodore
+
+name: CS 8999: Non-Candidate Research
+sectionNum: 15
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Landman, Bennett A.
+
+name: CS 8999: Non-Candidate Research
+sectionNum: 16
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Holman, Tim
+
+name: CS 8999: Non-Candidate Research
+sectionNum: 17
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Fisher, Douglas H.
+
+name: CS 8999: Non-Candidate Research
+sectionNum: 18
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Vorobeychik, Yevgeniy
+
+name: CS 8999: Non-Candidate Research
+sectionNum: 19
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: White, Christopher J.
+
+name: CS 8999: Non-Candidate Research
+sectionNum: 20
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Ledeczi, Akos
+
+name: CS 8999: Non-Candidate Research
+sectionNum: 21
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Sarkar, Nilanjan
+
+name: CS 8999: Non-Candidate Research
+sectionNum: 22
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Fabbri, Daniel
+
+name: CS 9999: Ph.D. Dissertation Research
+sectionNum: 02
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Schmidt, Douglas C.
+
+name: CS 9999: Ph.D. Dissertation Research
+sectionNum: 03
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Karsai, Gabor
+
+name: CS 9999: Ph.D. Dissertation Research
+sectionNum: 04
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Biswas, Gautam
+
+name: CS 9999: Ph.D. Dissertation Research
+sectionNum: 05
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Fitzpatrick, J. Michael
+
+name: CS 9999: Ph.D. Dissertation Research
+sectionNum: 06
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Sztipanovits, Janos
+
+name: CS 9999: Ph.D. Dissertation Research
+sectionNum: 07
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Adams, Julie
+
+name: CS 9999: Ph.D. Dissertation Research
+sectionNum: 08
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Dawant, Benoit
+
+name: CS 9999: Ph.D. Dissertation Research
+sectionNum: 09
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Koutsoukos, Xenofon D.
+
+name: CS 9999: Ph.D. Dissertation Research
+sectionNum: 11
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Xue, Yuan
+
+name: CS 9999: Ph.D. Dissertation Research
+sectionNum: 12
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Spinrad, Jeremy P.
+
+name: CS 9999: Ph.D. Dissertation Research
+sectionNum: 13
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Bodenheimer, Robert E.
+
+name: CS 9999: Ph.D. Dissertation Research
+sectionNum: 16
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Fisher, Douglas H.
+
+name: CS 9999: Ph.D. Dissertation Research
+sectionNum: 17
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Neema, Sandeep K.
+
+name: CS 9999: Ph.D. Dissertation Research
+sectionNum: 18
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Gokhale, Aniruddha S.
+
+name: CS 9999: Ph.D. Dissertation Research
+sectionNum: 19
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Vorobeychik, Yevgeniy
+
+name: CS 9999: Ph.D. Dissertation Research
+sectionNum: 20
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Malin, Bradley A.
+
+name: MATH 1005: Pre-calculus Mathematics
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 08:10a - 09:00a
+location: Stevenson Center 1320
+professor: Pigg, Pamela K.
+
+name: MATH 1005: Pre-calculus Mathematics
+sectionNum: 02
+hours: 3
+type: Lecture
+days: TBA
+time: TBA
+location:  
+professor: Staff
+
+name: MATH 1010: Probability and Statistical Inference
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MW
+time: 09:10a - 10:00a
+location: Stevenson Center 1206
+professor: Creutz, Darren
+
+name: MATH 1010: Probability and Statistical Inference Discussion
+sectionNum: 1
+hours: 0
+type: Discussion
+days: R
+time: 10:05a - 10:55a
+location: Stevenson Center 1210
+professor: Luo, Shana
+
+name: MATH 1010: Probability and Statistical Inference Discussion
+sectionNum: 2
+hours: 0
+type: Discussion
+days: R
+time: 11:10a - 12:00p
+location: Stevenson Center 1313
+professor: Caito, Caley E.
+
+name: MATH 1010: Probability and Statistical Inference Discussion
+sectionNum: 3
+hours: 0
+type: Discussion
+days: R
+time: 01:10p - 02:00p
+location: Stevenson Center 1313
+professor: Caito, Caley E.
+
+name: MATH 1100: Survey of Calculus
+sectionNum: 01
+hours: 4
+type: Lecture
+days: MWF
+time: 01:10p - 02:00p
+location: Stevenson Center 5211
+professor: Hutchison, Linda B.
+
+name: MATH 1100: Survey of Calculus
+sectionNum: 02
+hours: 4
+type: Lecture
+days: MWF
+time: 08:10a - 09:00a
+location: Stevenson Center 5211
+professor: Hutchison, Linda B.
+
+name: MATH 1100: Survey of Calculus Discussion
+sectionNum: 2
+hours: 0
+type: Discussion
+days: T
+time: 08:10a - 09:00a
+location: Stevenson Center 1312
+professor: Zhang, Yiran | Hutchison, Linda B.
+
+name: MATH 1100: Survey of Calculus Discussion
+sectionNum: 3
+hours: 0
+type: Discussion
+days: T
+time: 09:10a - 10:00a
+location: Stevenson Center 1312
+professor: Barnett, Lauren M. | Hutchison, Linda B.
+
+name: MATH 1100: Survey of Calculus Discussion
+sectionNum: 4
+hours: 0
+type: Discussion
+days: T
+time: 10:05a - 10:55a
+location: Stevenson Center 1312
+professor: Dixon, Parker J. | Hutchison, Linda B.
+
+name: MATH 1100: Survey of Calculus Discussion
+sectionNum: 5
+hours: 0
+type: Discussion
+days: T
+time: 11:10a - 12:00p
+location: Stevenson Center 1312
+professor: Mohd Yunus, Muhammad A. | Hutchison, Linda B.
+
+name: MATH 1100: Survey of Calculus Discussion
+sectionNum: 6
+hours: 0
+type: Discussion
+days: T
+time: 12:10p - 01:00p
+location: Stevenson Center 1312
+professor: Mohd Yunus, Muhammad A. | Hutchison, Linda B.
+
+name: MATH 1100: Survey of Calculus Discussion
+sectionNum: 7
+hours: 0
+type: Discussion
+days: T
+time: 01:10p - 02:00p
+location: Stevenson Center 1313
+professor: Zhang, Yiran | Hutchison, Linda B.
+
+name: MATH 1100: Survey of Calculus Discussion
+sectionNum: 8
+hours: 0
+type: Discussion
+days: T
+time: 02:10p - 03:00p
+location: Stevenson Center 1313
+professor: Dai, Betty | Hutchison, Linda B.
+
+name: MATH 1100: Survey of Calculus Discussion
+sectionNum: 9
+hours: 0
+type: Discussion
+days: T
+time: 03:10p - 04:00p
+location: Stevenson Center 1313
+professor: Addison, Ethan L. | Hutchison, Linda B.
+
+name: MATH 1100: Survey of Calculus Discussion
+sectionNum: 11
+hours: 0
+type: Discussion
+days: T
+time: 08:10a - 09:00a
+location: Stevenson Center 1310
+professor: Deng, Xiyu | Hutchison, Linda B.
+
+name: MATH 1100: Survey of Calculus Discussion
+sectionNum: 12
+hours: 0
+type: Discussion
+days: T
+time: 09:10a - 10:00a
+location: Stevenson Center 1120
+professor: Dixon, Parker J. | Hutchison, Linda B.
+
+name: MATH 1100: Survey of Calculus Discussion
+sectionNum: 13
+hours: 0
+type: Discussion
+days: T
+time: 10:05a - 10:55a
+location: Stevenson Center 1210
+professor: Goncharenko, Maria S. | Hutchison, Linda B.
+
+name: MATH 1100: Survey of Calculus Discussion
+sectionNum: 14
+hours: 0
+type: Discussion
+days: T
+time: 12:10p - 01:00p
+location: Stevenson Center 1313
+professor: Deng, Xiyu | Hutchison, Linda B.
+
+name: MATH 1111: First-Year Writing Seminar - FYS:Cryptography
+sectionNum: 03
+hours: 3
+type: Freshman Seminars
+days: MWF
+time: 12:10p - 01:00p
+location: Stevenson Center 1313
+professor: Bruff, Derek
+
+name: MATH 1200: Single-Variable Calculus I
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 08:10a - 09:00a
+location: Stevenson Center 1307
+professor: Creutz, Darren
+
+name: MATH 1200: Single-Variable Calculus I Discussion
+sectionNum: 1
+hours: 0
+type: Discussion
+days: T
+time: 08:10a - 09:00a
+location: Stevenson Center 1210
+professor: Stromberg, Johanna
+
+name: MATH 1200: Single-Variable Calculus I Discussion
+sectionNum: 2
+hours: 0
+type: Discussion
+days: T
+time: 09:10a - 10:00a
+location: Stevenson Center 1210
+professor: Stromberg, Johanna
+
+name: MATH 1200: Single-Variable Calculus I
+sectionNum: 04
+hours: 3
+type: Lecture
+days: MWF
+time: 09:10a - 10:00a
+location: Stevenson Center 1307
+professor: Pigg, Pamela K.
+
+name: MATH 1200: Single-Variable Calculus I Discussion
+sectionNum: 4
+hours: 0
+type: Discussion
+days: R
+time: 08:10a - 09:00a
+location: Stevenson Center 1210
+professor: Darbinyan, Arman
+
+name: MATH 1200: Single-Variable Calculus I Discussion
+sectionNum: 5
+hours: 0
+type: Discussion
+days: R
+time: 09:10a - 10:00a
+location: Stevenson Center 1210
+professor: Darbinyan, Arman
+
+name: MATH 1200: Single-Variable Calculus I
+sectionNum: 07
+hours: 3
+type: Lecture
+days: MWF
+time: 11:10a - 12:00p
+location: Stevenson Center 1307
+professor: Pigg, Pamela K.
+
+name: MATH 1200: Single-Variable Calculus I Discussion
+sectionNum: 7
+hours: 0
+type: Discussion
+days: R
+time: 12:10p - 01:00p
+location: Stevenson Center 1210
+professor: Li, Shiying
+
+name: MATH 1200: Single-Variable Calculus I Discussion
+sectionNum: 8
+hours: 0
+type: Discussion
+days: R
+time: 01:10p - 02:00p
+location: Stevenson Center 1210
+professor: Li, Shiying
+
+name: MATH 1200: Single-Variable Calculus I
+sectionNum: 10
+hours: 3
+type: Lecture
+days: MWF
+time: 01:10p - 02:00p
+location: Stevenson Center 1308
+professor: Moore, Matthew
+
+name: MATH 1200: Single-Variable Calculus I Discussion
+sectionNum: 10
+hours: 0
+type: Discussion
+days: T
+time: 12:10p - 01:00p
+location: Stevenson Center 1210
+professor: Parekh, Sandeepan
+
+name: MATH 1200: Single-Variable Calculus I Discussion
+sectionNum: 11
+hours: 0
+type: Discussion
+days: T
+time: 01:10p - 02:00p
+location: Stevenson Center 1210
+professor: Parekh, Sandeepan
+
+name: MATH 1200: Single-Variable Calculus I
+sectionNum: 13
+hours: 3
+type: Lecture
+days: MWF
+time: 02:10p - 03:00p
+location: Stevenson Center 1308
+professor: Corson, Samuel M.
+
+name: MATH 1200: Single-Variable Calculus I Discussion
+sectionNum: 13
+hours: 0
+type: Discussion
+days: R
+time: 12:10p - 01:00p
+location: Stevenson Center 1214
+professor: Nikkel, Jordan K.
+
+name: MATH 1200: Single-Variable Calculus I Discussion
+sectionNum: 14
+hours: 0
+type: Discussion
+days: R
+time: 02:10p - 03:00p
+location: Stevenson Center 1210
+professor: Nikkel, Jordan K.
+
+name: MATH 1200: Single-Variable Calculus I
+sectionNum: 16
+hours: 3
+type: Lecture
+days: MWF
+time: 03:10p - 04:00p
+location: Stevenson Center 1308
+professor: Moore, Matthew
+
+name: MATH 1200: Single-Variable Calculus I Discussion
+sectionNum: 16
+hours: 0
+type: Discussion
+days: T
+time: 02:10p - 03:00p
+location: Stevenson Center 1210
+professor: Leshen, Sara J.
+
+name: MATH 1200: Single-Variable Calculus I Discussion
+sectionNum: 17
+hours: 0
+type: Discussion
+days: T
+time: 03:10p - 04:00p
+location: Stevenson Center 1210
+professor: Leshen, Sara J.
+
+name: MATH 1200: Single-Variable Calculus I
+sectionNum: 19
+hours: 3
+type: Lecture
+days: MWF
+time: 08:10a - 09:00a
+location: Stevenson Center 1432
+professor: Gil-Ferez, Jose
+
+name: MATH 1200: Single-Variable Calculus I Discussion
+sectionNum: 19
+hours: 0
+type: Discussion
+days: R
+time: 08:10a - 09:00a
+location: Stevenson Center 1120
+professor: Solava, Ryan W.
+
+name: MATH 1200: Single-Variable Calculus I Discussion
+sectionNum: 20
+hours: 0
+type: Discussion
+days: R
+time: 09:10a - 10:00a
+location: Stevenson Center 1120
+professor: Solava, Ryan W.
+
+name: MATH 1201: Single-Variable Calculus II
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 11:10a - 12:00p
+location: Stevenson Center 1117
+professor: Hutchison, Linda B.
+
+name: MATH 1201: Single-Variable Calculus II Discussion
+sectionNum: 1
+hours: 0
+type: Discussion
+days: T
+time: 02:10p - 03:00p
+location: Stevenson Center 1320
+professor: Vlasiuk, Oleksandr
+
+name: MATH 1201: Single-Variable Calculus II Discussion
+sectionNum: 2
+hours: 0
+type: Discussion
+days: T
+time: 03:10p - 04:00p
+location: Stevenson Center 1120
+professor: Vlasiuk, Oleksandr
+
+name: MATH 1300: Accelerated Single-Variable Calculus I
+sectionNum: 01
+hours: 4
+type: Lecture
+days: MWF
+time: 08:10a - 09:00a
+location: Stevenson Center 1308
+professor: Rafter, Lori H.
+
+name: MATH 1300: Accelerated Single-Variable Calculus I Discussion
+sectionNum: 1
+hours: 0
+type: Discussion
+days: T
+time: 08:10a - 09:00a
+location: Stevenson Center 1214
+professor: Van der Walt, Maria D.
+
+name: MATH 1300: Accelerated Single-Variable Calculus I Discussion
+sectionNum: 2
+hours: 0
+type: Discussion
+days: T
+time: 09:10a - 10:00a
+location: Stevenson Center 1214
+professor: Van der Walt, Maria D.
+
+name: MATH 1300: Accelerated Single-Variable Calculus I
+sectionNum: 04
+hours: 4
+type: Lecture
+days: MWF
+time: 09:10a - 10:00a
+location: Stevenson Center 1308
+professor: Rafter, Lori H.
+
+name: MATH 1300: Accelerated Single-Variable Calculus I Discussion
+sectionNum: 4
+hours: 0
+type: Discussion
+days: T
+time: 10:05a - 10:55a
+location: Stevenson Center 1214
+professor: Shan, Songling
+
+name: MATH 1300: Accelerated Single-Variable Calculus I Discussion
+sectionNum: 5
+hours: 0
+type: Discussion
+days: T
+time: 11:10a - 12:00p
+location: Stevenson Center 1214
+professor: Shan, Songling
+
+name: MATH 1300: Accelerated Single-Variable Calculus I
+sectionNum: 07
+hours: 4
+type: Lecture
+days: MWF
+time: 10:10a - 11:00a
+location: Stevenson Center 1206
+professor: Antolin Pichel, Yago
+
+name: MATH 1300: Accelerated Single-Variable Calculus I Discussion
+sectionNum: 7
+hours: 0
+type: Discussion
+days: R
+time: 01:10p - 02:00p
+location: Stevenson Center 1214
+professor: Shan, Songling
+
+name: MATH 1300: Accelerated Single-Variable Calculus I Discussion
+sectionNum: 8
+hours: 0
+type: Discussion
+days: R
+time: 02:10p - 03:00p
+location: Stevenson Center 1214
+professor: Shan, Songling
+
+name: MATH 1300: Accelerated Single-Variable Calculus I
+sectionNum: 10
+hours: 4
+type: Lecture
+days: MWF
+time: 11:10a - 12:00p
+location: Stevenson Center 2212
+professor: Antolin Pichel, Yago
+
+name: MATH 1300: Accelerated Single-Variable Calculus I Discussion
+sectionNum: 10
+hours: 0
+type: Discussion
+days: R
+time: 09:10a - 10:00a
+location: Stevenson Center 1214
+professor: Van der Walt, Maria D.
+
+name: MATH 1300: Accelerated Single-Variable Calculus I Discussion
+sectionNum: 11
+hours: 0
+type: Discussion
+days: R
+time: 10:05a - 10:55a
+location: Stevenson Center 1214
+professor: Van der Walt, Maria D.
+
+name: MATH 1300: Accelerated Single-Variable Calculus I
+sectionNum: 13
+hours: 4
+type: Lecture
+days: MWF
+time: 12:10p - 01:00p
+location: Stevenson Center 1307
+professor: Wang, Kun
+
+name: MATH 1300: Accelerated Single-Variable Calculus I Discussion
+sectionNum: 13
+hours: 0
+type: Discussion
+days: T
+time: 12:10p - 01:00p
+location: Stevenson Center 1214
+professor: Rodsphon, Rudy
+
+name: MATH 1300: Accelerated Single-Variable Calculus I Discussion
+sectionNum: 14
+hours: 0
+type: Discussion
+days: T
+time: 01:10p - 02:00p
+location: Stevenson Center 1214
+professor: Rodsphon, Rudy
+
+name: MATH 1300: Accelerated Single-Variable Calculus I
+sectionNum: 16
+hours: 4
+type: Lecture
+days: MWF
+time: 01:10p - 02:00p
+location: Stevenson Center 1307
+professor: Wang, Kun
+
+name: MATH 1300: Accelerated Single-Variable Calculus I Discussion
+sectionNum: 16
+hours: 0
+type: Discussion
+days: R
+time: 02:10p - 03:00p
+location: Stevenson Center 1313
+professor: Gaslowitz, Joshua Z.
+
+name: MATH 1300: Accelerated Single-Variable Calculus I Discussion
+sectionNum: 17
+hours: 0
+type: Discussion
+days: R
+time: 03:05p - 03:55p
+location: Stevenson Center 1214
+professor: Gaslowitz, Joshua Z.
+
+name: MATH 1300: Accelerated Single-Variable Calculus I
+sectionNum: 19
+hours: 4
+type: Lecture
+days: MWF
+time: 02:10p - 03:00p
+location: Stevenson Center 1307
+professor: Sale, Andrew W.
+
+name: MATH 1300: Accelerated Single-Variable Calculus I Discussion
+sectionNum: 19
+hours: 0
+type: Discussion
+days: T
+time: 02:10p - 03:00p
+location: Stevenson Center 1214
+professor: Hamm, Keaton P.
+
+name: MATH 1300: Accelerated Single-Variable Calculus I Discussion
+sectionNum: 20
+hours: 0
+type: Discussion
+days: T
+time: 03:10p - 04:00p
+location: Stevenson Center 1214
+professor: Hamm, Keaton P.
+
+name: MATH 1300: Accelerated Single-Variable Calculus I
+sectionNum: 22
+hours: 4
+type: Lecture
+days: MWF
+time: 03:10p - 04:00p
+location: Stevenson Center 1307
+professor: Sale, Andrew W.
+
+name: MATH 1300: Accelerated Single-Variable Calculus I Discussion
+sectionNum: 22
+hours: 0
+type: Discussion
+days: R
+time: 10:05a - 10:55a
+location: Stevenson Center 1312
+professor: Rodsphon, Rudy
+
+name: MATH 1300: Accelerated Single-Variable Calculus I Discussion
+sectionNum: 23
+hours: 0
+type: Discussion
+days: R
+time: 11:10a - 12:00p
+location: Stevenson Center 1214
+professor: Rodsphon, Rudy
+
+name: MATH 1301: Accelerated Single-Variable Calculus II
+sectionNum: 01
+hours: 4
+type: Lecture
+days: MWF
+time: 09:10a - 10:00a
+location: Stevenson Center 1432
+professor: Jones, Corey M.
+
+name: MATH 1301: Accelerated Single-Variable Calculus II Discussion
+sectionNum: 1
+hours: 0
+type: Discussion
+days: T
+time: 08:10a - 09:00a
+location: Stevenson Center 1313
+professor: O'Connell, Kelly M.
+
+name: MATH 1301: Accelerated Single-Variable Calculus II Discussion
+sectionNum: 2
+hours: 0
+type: Discussion
+days: T
+time: 09:10a - 10:00a
+location: Stevenson Center 1313
+professor: O'Connell, Kelly M.
+
+name: MATH 1301: Accelerated Single-Variable Calculus II
+sectionNum: 04
+hours: 4
+type: Lecture
+days: MWF
+time: 11:10a - 12:00p
+location: Stevenson Center 1206
+professor: Rafter, Lori H.
+
+name: MATH 1301: Accelerated Single-Variable Calculus II Discussion
+sectionNum: 4
+hours: 0
+type: Discussion
+days: R
+time: 08:10a - 09:00a
+location: Stevenson Center 1313
+professor: Staff
+
+name: MATH 1301: Accelerated Single-Variable Calculus II Discussion
+sectionNum: 5
+hours: 0
+type: Discussion
+days: R
+time: 09:10a - 10:00a
+location: Stevenson Center 1313
+professor: Staff
+
+name: MATH 1301: Accelerated Single-Variable Calculus II
+sectionNum: 07
+hours: 4
+type: Lecture
+days: MWF
+time: 12:10p - 01:00p
+location: Stevenson Center 1308
+professor: Das, Sayan
+
+name: MATH 1301: Accelerated Single-Variable Calculus II Discussion
+sectionNum: 7
+hours: 0
+type: Discussion
+days: T
+time: 10:05a - 10:55a
+location: Stevenson Center 1313
+professor: Michaels, Timothy J.
+
+name: MATH 1301: Accelerated Single-Variable Calculus II Discussion
+sectionNum: 8
+hours: 0
+type: Discussion
+days: T
+time: 11:10a - 12:00p
+location: Stevenson Center 1313
+professor: Michaels, Timothy J.
+
+name: MATH 1301: Accelerated Single-Variable Calculus II
+sectionNum: 10
+hours: 4
+type: Lecture
+days: MWF
+time: 02:10p - 03:00p
+location: Stevenson Center 2212
+professor: Lagomasino, Guillermo T.
+
+name: MATH 1301: Accelerated Single-Variable Calculus II Discussion
+sectionNum: 10
+hours: 0
+type: Discussion
+days: R
+time: 10:05a - 10:55a
+location: Stevenson Center 1313
+professor: Klaus, Colin J.
+
+name: MATH 1301: Accelerated Single-Variable Calculus II Discussion
+sectionNum: 11
+hours: 0
+type: Discussion
+days: R
+time: 11:10a - 12:00p
+location: Stevenson Center 1210
+professor: Klaus, Colin J.
+
+name: MATH 1301: Accelerated Single-Variable Calculus II
+sectionNum: 13
+hours: 4
+type: Lecture
+days: TBA
+time: TBA
+location: TBA
+professor: 
+
+name: MATH 1301: Accelerated Single-Variable Calculus II Discussion
+sectionNum: 13
+hours: 0
+type: Discussion
+days: TBA
+time: TBA
+location:  
+professor: Staff
+
+name: MATH 1301: Accelerated Single-Variable Calculus II Discussion
+sectionNum: 14
+hours: 0
+type: Discussion
+days: TBA
+time: TBA
+location:  
+professor: Staff
+
+name: MATH 2200: Single-Variable Calculus III
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 12:10p - 01:00p
+location: Stevenson Center 1214
+professor: McKenzie, Ralph N.
+
+name: MATH 2300: Multivariable Calculus
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 08:10a - 09:00a
+location: Stevenson Center 1431
+professor: Hayes, Benjamin R.
+
+name: MATH 2300: Multivariable Calculus
+sectionNum: 02
+hours: 3
+type: Lecture
+days: TR
+time: 08:10a - 09:25a
+location: Stevenson Center 1432
+professor: Rafter, John A.
+
+name: MATH 2300: Multivariable Calculus
+sectionNum: 03
+hours: 3
+type: Lecture
+days: MWF
+time: 09:10a - 10:00a
+location: Stevenson Center 1320
+professor: Ahner, John F.
+
+name: MATH 2300: Multivariable Calculus
+sectionNum: 04
+hours: 3
+type: Lecture
+days: MWF
+time: 10:10a - 11:00a
+location: Stevenson Center 1117
+professor: Hayes, Benjamin R.
+
+name: MATH 2300: Multivariable Calculus
+sectionNum: 05
+hours: 3
+type: Lecture
+days: MWF
+time: 10:10a - 11:00a
+location: Stevenson Center 1210
+professor: Simonett, Gieri
+
+name: MATH 2300: Multivariable Calculus
+sectionNum: 06
+hours: 3
+type: Lecture
+days: TR
+time: 09:35a - 10:50a
+location: Stevenson Center 1432
+professor: Aldroubi, Akram
+
+name: MATH 2300: Multivariable Calculus
+sectionNum: 07
+hours: 3
+type: Lecture
+days: TR
+time: 11:00a - 12:15p
+location: Stevenson Center 1307
+professor: Hamm, Keaton P.
+
+name: MATH 2300: Multivariable Calculus
+sectionNum: 08
+hours: 3
+type: Lecture
+days: MWF
+time: 11:10a - 12:00p
+location: Stevenson Center 1320
+professor: Suvaina, Ioana
+
+name: MATH 2300: Multivariable Calculus
+sectionNum: 09
+hours: 3
+type: Lecture
+days: MWF
+time: 12:10p - 01:00p
+location: Stevenson Center 1320
+professor: Zheng, Dechao
+
+name: MATH 2300: Multivariable Calculus
+sectionNum: 10
+hours: 3
+type: Lecture
+days: MWF
+time: 01:10p - 02:00p
+location: Stevenson Center 1432
+professor: Falgas, Victor
+
+name: MATH 2300: Multivariable Calculus
+sectionNum: 11
+hours: 3
+type: Lecture
+days: TR
+time: 01:10p - 02:25p
+location: Stevenson Center 1432
+professor: Powell, Alexander M.
+
+name: MATH 2300: Multivariable Calculus
+sectionNum: 12
+hours: 3
+type: Lecture
+days: MWF
+time: 02:10p - 03:00p
+location: Stevenson Center 1320
+professor: Zheng, Dechao
+
+name: MATH 2300: Multivariable Calculus
+sectionNum: 13
+hours: 3
+type: Lecture
+days: TR
+time: 02:35p - 03:50p
+location: Stevenson Center 1432
+professor: Powell, Alexander M.
+
+name: MATH 2300: Multivariable Calculus
+sectionNum: 14
+hours: 3
+type: Lecture
+days: MWF
+time: 03:10p - 04:00p
+location: Stevenson Center 1431
+professor: Lagomasino, Guillermo T.
+
+name: MATH 2300: Multivariable Calculus
+sectionNum: 15
+hours: 3
+type: Lecture
+days: MWF
+time: 09:10a - 10:00a
+location: Stevenson Center 1210
+professor: Bohmann, Anna Marie
+
+name: MATH 2400: Differential Equations with Linear Algebra
+sectionNum: 01
+hours: 4
+type: Lecture
+days: MWF
+time: 10:10a - 11:00a
+location: Stevenson Center 1320
+professor: Gil-Ferez, Jose
+
+name: MATH 2400: Differential Equations with Linear Algebra Discussion
+sectionNum: 1
+hours: 0
+type: Discussion
+days: R
+time: 09:35a - 10:25a
+location: Furman 325
+professor: Petrosyan, Armenak
+
+name: MATH 2400: Differential Equations with Linear Algebra Discussion
+sectionNum: 2
+hours: 0
+type: Discussion
+days: R
+time: 08:35a - 09:25a
+location: Furman 325
+professor: Petrosyan, Armenak
+
+name: MATH 2410: Methods of Linear Algebra
+sectionNum: 01
+hours: 3
+type: Lecture
+days: TR
+time: 09:35a - 10:50a
+location: Stevenson Center 1307
+professor: Rasdeaconu, Rares
+
+name: MATH 2410: Methods of Linear Algebra
+sectionNum: 02
+hours: 3
+type: Lecture
+days: MWF
+time: 01:10p - 02:00p
+location: Stevenson Center 1431
+professor: Osin, Denis
+
+name: MATH 2410: Methods of Linear Algebra
+sectionNum: 03
+hours: 3
+type: Lecture
+days: TR
+time: 01:10p - 02:25p
+location: Stevenson Center 1120
+professor: Brothier, Arnaud
+
+name: MATH 2420: Methods of Ordinary Differential Equations
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 08:10a - 09:00a
+location: Stevenson Center 1120
+professor: Ahner, John F.
+
+name: MATH 2420: Methods of Ordinary Differential Equations
+sectionNum: 02
+hours: 3
+type: Lecture
+days: TR
+time: 01:10p - 02:25p
+location: Stevenson Center 2212
+professor: Xia, Daoxing
+
+name: MATH 2420: Methods of Ordinary Differential Equations
+sectionNum: 03
+hours: 3
+type: Lecture
+days: MWF
+time: 10:10a - 11:00a
+location: Stevenson Center 1431
+professor: Crooke, Philip S.
+
+name: MATH 2420: Methods of Ordinary Differential Equations
+sectionNum: 04
+hours: 3
+type: Lecture
+days: TR
+time: 01:10p - 02:25p
+location: Stevenson Center 1431
+professor: Saff, Edward B.
+
+name: MATH 2500: Multivariable Calculus and Linear Algebra
+sectionNum: 01
+hours: 4
+type: Lecture
+days: MWF
+time: 10:10a - 11:00a
+location: Stevenson Center 1308
+professor: Hughes, Bruce
+
+name: MATH 2500: Multivariable Calculus and Linear Algebra Discussion
+sectionNum: 1
+hours: 0
+type: Discussion
+days: R
+time: 10:05a - 10:55a
+location: Stevenson Center 1320
+professor: Lee, Chang-Hsin
+
+name: MATH 2600: Linear Algebra
+sectionNum: 01
+hours: 3
+type: Lecture
+days: TR
+time: 11:00a - 12:15p
+location: Stevenson Center 1310
+professor: Peterson, Jesse
+
+name: MATH 2600: Linear Algebra
+sectionNum: 02
+hours: 3
+type: Lecture
+days: MWF
+time: 02:10p - 03:00p
+location: Stevenson Center 1117
+professor: Dowdall, Spencer
+
+name: MATH 2600: Linear Algebra
+sectionNum: 03
+hours: 3
+type: Lecture
+days: MWF
+time: 10:10a - 11:00a
+location: Stevenson Center 1432
+professor: Ellingham, Mark N.
+
+name: MATH 2610: Ordinary Differential Equations
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 09:10a - 10:00a
+location: Stevenson Center 1431
+professor: Suvaina, Ioana
+
+name: MATH 2610: Ordinary Differential Equations
+sectionNum: 02
+hours: 3
+type: Lecture
+days: TR
+time: 01:10p - 02:25p
+location: Stevenson Center 1117
+professor: DiBenedetto, Emmanuele
+
+name: MATH 2820: Introduction to Probability and Mathematical Statistics
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 12:10p - 01:00p
+location: Stevenson Center 5211
+professor: Neamtu, Marian
+
+name: MATH 2820L: Statistics Laboratory
+sectionNum: 01
+hours: 1
+type: Laboratory
+days: T
+time: 01:10p - 02:00p
+location: Stevenson Center 2200
+professor: Balasubramanya, Sahana H.
+
+name: MATH 3000: History of Mathematics
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 01:10p - 02:00p
+location: Stevenson Center 1120
+professor: Robbins, Jakayla R.
+
+name: MATH 3010: Intensive Problem Solving and Exposition
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 09:10a - 10:00a
+location: Stevenson Center 1310
+professor: Tschantz, Steven T.
+
+name: MATH 3100: Introduction to Analysis
+sectionNum: 01
+hours: 3
+type: Lecture
+days: TR
+time: 11:00a - 12:15p
+location: Stevenson Center 1432
+professor: Aldroubi, Akram
+
+name: MATH 3200: Introduction to Topology
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 12:10p - 01:00p
+location: Stevenson Center 1431
+professor: Hughes, Bruce
+
+name: MATH 3210: Transformation Geometry
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 02:10p - 03:00p
+location: Stevenson Center 1432
+professor: Ratcliffe, John G.
+
+name: MATH 3300: Abstract Algebra
+sectionNum: 01
+hours: 3
+type: Lecture
+days: TR
+time: 02:35p - 03:50p
+location: Stevenson Center 1308
+professor: Tsinakis, Constantine
+
+name: MATH 3320: Error-Correcting Codes and Cryptography
+sectionNum: 01
+hours: 3
+type: Lecture
+days: TR
+time: 09:35a - 10:50a
+location: Stevenson Center 1308
+professor: Rafter, John A.
+
+name: MATH 3620: Introduction to Numerical Mathematics
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 11:10a - 12:00p
+location: Stevenson Center 1431
+professor: Webb, Glenn F.
+
+name: MATH 3640: Probability
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 10:10a - 11:00a
+location: Stevenson Center 1307
+professor: Reznikov, Aleksandr
+
+name: MATH 3650: Introduction to Actuarial Mathematics
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 11:10a - 12:00p
+location: Stevenson Center 1308
+professor: Robbins, Jakayla R.
+
+name: MATH 3700: Discrete Mathematics
+sectionNum: 01
+hours: 3
+type: Lecture
+days: TR
+time: 01:10p - 02:25p
+location: Stevenson Center 1308
+professor: Edelman, Paul H.
+
+name: MATH 3800: Theory of Numbers
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 11:10a - 12:00p
+location: Stevenson Center 1310
+professor: Ratcliffe, John G.
+
+name: MATH 3800: Theory of Numbers
+sectionNum: 02
+hours: 3
+type: Lecture
+days: MWF
+time: 01:10p - 02:00p
+location: Stevenson Center 1214
+professor: Tschantz, Steven T.
+
+name: MATH 3859: Independent Study
+sectionNum: 01
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Simonett, Gieri
+
+name: MATH 3859: Independent Study
+sectionNum: 02
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Yu, Guoliang
+
+name: MATH 3859: Independent Study
+sectionNum: 03
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Ratcliffe, John G.
+
+name: MATH 3859: Independent Study
+sectionNum: 04
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Tschantz, Steven T.
+
+name: MATH 3859: Independent Study
+sectionNum: 05
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Perepelitsa, Mikhail A.
+
+name: MATH 3859: Independent Study
+sectionNum: 06
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Mihalik, Michael L.
+
+name: MATH 3859: Independent Study
+sectionNum: 07
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Pressley, Joanna
+
+name: MATH 3859: Independent Study
+sectionNum: 08
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Neamtu, Marian
+
+name: MATH 3859: Independent Study
+sectionNum: 09
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Osin, Denis
+
+name: MATH 3859: Independent Study
+sectionNum: 10
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Ellingham, Mark N.
+
+name: MATH 3859: Independent Study
+sectionNum: 11
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Hardin, Douglas P.
+
+name: MATH 3859: Independent Study
+sectionNum: 12
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Tsinakis, Constantine
+
+name: MATH 3859: Independent Study
+sectionNum: 13
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Disconzi, Marcelo
+
+name: MATH 3859: Independent Study
+sectionNum: 14
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Rafter, John A.
+
+name: MATH 3859: Independent Study
+sectionNum: 15
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Crooke, Philip S.
+
+name: MATH 3859: Independent Study
+sectionNum: 16
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Webb, Glenn F.
+
+name: MATH 4200: Topology
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 11:10a - 12:00p
+location: Stevenson Center 1210
+professor: Mihalik, Michael L.
+
+name: MATH 4300: Modern Algebra
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 10:10a - 11:00a
+location: Stevenson Center 1214
+professor: Olshanskiy, Alexander Y.
+
+name: MATH 4620: Linear Optimization
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 11:10a - 12:00p
+location: Stevenson Center 1432
+professor: Ellingham, Mark N.
+
+name: MATH 4710: Graph Theory
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 12:10p - 01:00p
+location: Stevenson Center 1432
+professor: Falgas, Victor
+
+name: MATH 4999: Senior Thesis
+sectionNum: 01
+hours: 3
+type: Senior Thesis
+days: TBA
+time: TBA
+location: TBA
+professor: Simonett, Gieri
+
+name: MATH 4999: Senior Thesis
+sectionNum: 02
+hours: 3
+type: Senior Thesis
+days: TBA
+time: TBA
+location: TBA
+professor: Ellingham, Mark N.
+
+name: MATH 4999: Senior Thesis
+sectionNum: 03
+hours: 3
+type: Senior Thesis
+days: TBA
+time: TBA
+location: TBA
+professor: Ratcliffe, John G.
+
+name: MATH 4999: Senior Thesis
+sectionNum: 04
+hours: 3
+type: Senior Thesis
+days: TBA
+time: TBA
+location: TBA
+professor: Neamtu, Marian
+
+name: MATH 5000: History of Mathematics
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 01:10p - 02:00p
+location: Stevenson Center 1120
+professor: Robbins, Jakayla R.
+
+name: MATH 5100: Introduction to Analysis
+sectionNum: 01
+hours: 3
+type: Lecture
+days: TR
+time: 11:00a - 12:15p
+location: Stevenson Center 1432
+professor: Aldroubi, Akram
+
+name: MATH 5200: Introduction to Topology
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 12:10p - 01:00p
+location: Stevenson Center 1431
+professor: Hughes, Bruce
+
+name: MATH 5210: Transformation Geometry
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 02:10p - 03:00p
+location: Stevenson Center 1432
+professor: Ratcliffe, John G.
+
+name: MATH 5300: Abstract Algebra
+sectionNum: 01
+hours: 3
+type: Lecture
+days: TR
+time: 02:35p - 03:50p
+location: Stevenson Center 1308
+professor: Tsinakis, Constantine
+
+name: MATH 5320: Error-Correcting Codes and Cryptography
+sectionNum: 01
+hours: 3
+type: Lecture
+days: TR
+time: 09:35a - 10:50a
+location: Stevenson Center 1431
+professor: Rafter, John A.
+
+name: MATH 5600: Linear Algebra
+sectionNum: 01
+hours: 3
+type: Lecture
+days: TR
+time: 11:00a - 12:15p
+location: Stevenson Center 1310
+professor: Peterson, Jesse
+
+name: MATH 5600: Linear Algebra
+sectionNum: 02
+hours: 3
+type: Lecture
+days: MWF
+time: 02:10p - 03:00p
+location: Stevenson Center 1117
+professor: Dowdall, Spencer
+
+name: MATH 5600: Linear Algebra
+sectionNum: 03
+hours: 3
+type: Lecture
+days: MWF
+time: 10:10a - 11:00a
+location: Stevenson Center 1432
+professor: Ellingham, Mark N.
+
+name: MATH 5610: Ordinary Differential Equations
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 09:10a - 10:00a
+location: Stevenson Center 1117
+professor: Suvaina, Ioana
+
+name: MATH 5610: Ordinary Differential Equations
+sectionNum: 02
+hours: 3
+type: Lecture
+days: TR
+time: 01:10p - 02:25p
+location: Stevenson Center 1117
+professor: DiBenedetto, Emmanuele
+
+name: MATH 5620: Introduction to Numerical Mathematics
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 11:10a - 12:00p
+location: Stevenson Center 1431
+professor: Webb, Glenn F.
+
+name: MATH 5640: Probability
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 10:10a - 11:00a
+location: Stevenson Center 1307
+professor: Reznikov, Aleksandr
+
+name: MATH 5700: Discrete Mathematics
+sectionNum: 01
+hours: 3
+type: Lecture
+days: TR
+time: 01:10p - 02:25p
+location: Stevenson Center 1308
+professor: Edelman, Paul H.
+
+name: MATH 5800: Theory of Numbers
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 11:10a - 12:00p
+location: Stevenson Center 1120
+professor: Ratcliffe, John G.
+
+name: MATH 5800: Theory of Numbers
+sectionNum: 02
+hours: 3
+type: Lecture
+days: MWF
+time: 01:10p - 02:00p
+location: Stevenson Center 1214
+professor: Tschantz, Steven T.
+
+name: MATH 5820: Introduction to Probability and Mathematical Statistics
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 12:10p - 01:00p
+location: Stevenson Center 5211
+professor: Neamtu, Marian
+
+name: MATH 6100: Theory of Functions of a Real Variable
+sectionNum: 01
+hours: 3
+type: Lecture
+days: TR
+time: 01:10p - 02:25p
+location: Stevenson Center 1312
+professor: Disconzi, Marcelo
+
+name: MATH 6200: Topology
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 11:10a - 12:00p
+location: Stevenson Center 1210
+professor: Mihalik, Michael L.
+
+name: MATH 6300: Modern Algebra
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 10:10a - 11:00a
+location: Stevenson Center 1214
+professor: Olshanskiy, Alexander Y.
+
+name: MATH 6620: Linear Optimization
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 11:10a - 12:00p
+location: Stevenson Center 1432
+professor: Ellingham, Mark N.
+
+name: MATH 6710: Graph Theory
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 12:10p - 01:00p
+location: Stevenson Center 1432
+professor: Falgas, Victor
+
+name: MATH 7100: Theory of Functions of a Complex Variable
+sectionNum: 01
+hours: 3
+type: Lecture
+days: TR
+time: 11:00a - 12:15p
+location: Stevenson Center 1117
+professor: Hardin, Douglas P.
+
+name: MATH 7120: Functional Analysis
+sectionNum: 01
+hours: 3
+type: Lecture
+days: TR
+time: 09:35a - 10:50a
+location: Stevenson Center 1310
+professor: Bisch, Dietmar
+
+name: MATH 7300: Universal Algebra
+sectionNum: 01
+hours: 3
+type: Lecture
+days: TBA
+time: TBA
+location:  
+professor: Staff
+
+name: MATH 7999: Master's Thesis Research
+sectionNum: 01
+hours: 0
+type: Masters Thesis Research
+days: TBA
+time: TBA
+location: TBA
+professor: Aldroubi, Akram
+
+name: MATH 7999: Master's Thesis Research
+sectionNum: 02
+hours: 0
+type: Masters Thesis Research
+days: TBA
+time: TBA
+location: TBA
+professor: Bisch, Dietmar
+
+name: MATH 7999: Master's Thesis Research
+sectionNum: 03
+hours: 0
+type: Masters Thesis Research
+days: TBA
+time: TBA
+location: TBA
+professor: Ellingham, Mark N.
+
+name: MATH 7999: Master's Thesis Research
+sectionNum: 04
+hours: 0
+type: Masters Thesis Research
+days: TBA
+time: TBA
+location: TBA
+professor: Ellingham, Mark N.
+
+name: MATH 7999: Master's Thesis Research
+sectionNum: 05
+hours: 0
+type: Masters Thesis Research
+days: TBA
+time: TBA
+location: TBA
+professor: Kasparov, Gennadi
+
+name: MATH 7999: Master's Thesis Research
+sectionNum: 06
+hours: 0
+type: Masters Thesis Research
+days: TBA
+time: TBA
+location: TBA
+professor: McKenzie, Ralph N.
+
+name: MATH 7999: Master's Thesis Research
+sectionNum: 07
+hours: 0
+type: Masters Thesis Research
+days: TBA
+time: TBA
+location: TBA
+professor: Neamtu, Marian
+
+name: MATH 7999: Master's Thesis Research
+sectionNum: 08
+hours: 0
+type: Masters Thesis Research
+days: TBA
+time: TBA
+location: TBA
+professor: Olshanskiy, Alexander Y.
+
+name: MATH 7999: Master's Thesis Research
+sectionNum: 09
+hours: 0
+type: Masters Thesis Research
+days: TBA
+time: TBA
+location: TBA
+professor: Sapir, Mark
+
+name: MATH 7999: Master's Thesis Research
+sectionNum: 10
+hours: 0
+type: Masters Thesis Research
+days: TBA
+time: TBA
+location: TBA
+professor: Schumaker, Larry L.
+
+name: MATH 7999: Master's Thesis Research
+sectionNum: 11
+hours: 0
+type: Masters Thesis Research
+days: TBA
+time: TBA
+location: TBA
+professor: Yu, Guoliang
+
+name: MATH 8100: Theory of Ordinary Differential Equations
+sectionNum: 01
+hours: 3
+type: Lecture
+days: TBA
+time: TBA
+location:  
+professor: Staff
+
+name: MATH 8120: Operator Algebras
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 11:10a - 12:00p
+location: Stevenson Center 1312
+professor: Jones, Vaughan
+
+name: MATH 8300: Combinatorial and Geometric Group Theory
+sectionNum: 01
+hours: 3
+type: Lecture
+days: MWF
+time: 01:10p - 02:00p
+location: Stevenson Center 1312
+professor: Sapir, Mark
+
+name: MATH 8997: Advanced Independent Study
+sectionNum: 02
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Bisch, Dietmar
+
+name: MATH 8997: Advanced Independent Study
+sectionNum: 03
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Ellingham, Mark N.
+
+name: MATH 8997: Advanced Independent Study
+sectionNum: 04
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Kasparov, Gennadi
+
+name: MATH 8997: Advanced Independent Study
+sectionNum: 05
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: McKenzie, Ralph N.
+
+name: MATH 8997: Advanced Independent Study
+sectionNum: 06
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Neamtu, Marian
+
+name: MATH 8997: Advanced Independent Study
+sectionNum: 07
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Ol'shanskii, Maxim A.
+
+name: MATH 8997: Advanced Independent Study
+sectionNum: 08
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Sapir, Mark
+
+name: MATH 8997: Advanced Independent Study
+sectionNum: 09
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Schumaker, Larry L.
+
+name: MATH 8997: Advanced Independent Study
+sectionNum: 10
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Yu, Guoliang
+
+name: MATH 8997: Advanced Independent Study
+sectionNum: 11
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Saff, Edward B.
+
+name: MATH 8997: Advanced Independent Study
+sectionNum: 12
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: DiBenedetto, Emmanuele
+
+name: MATH 8997: Advanced Independent Study
+sectionNum: 13
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Powell, Alexander M.
+
+name: MATH 8997: Advanced Independent Study
+sectionNum: 14
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: DiBenedetto, Emmanuele
+
+name: MATH 8997: Advanced Independent Study
+sectionNum: 15
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Gurel, Basak
+
+name: MATH 8997: Advanced Independent Study
+sectionNum: 16
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Suvaina, Ioana
+
+name: MATH 8997: Advanced Independent Study
+sectionNum: 17
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Jones, Vaughan
+
+name: MATH 8997: Advanced Independent Study
+sectionNum: 18
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Aldroubi, Akram
+
+name: MATH 8997: Advanced Independent Study
+sectionNum: 19
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Peterson, Jesse
+
+name: MATH 8997: Advanced Independent Study
+sectionNum: 20
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Olshanskiy, Alexander Y.
+
+name: MATH 8997: Advanced Independent Study
+sectionNum: 21
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Osin, Denis
+
+name: MATH 8997: Advanced Independent Study
+sectionNum: 22
+hours: 1
+type: Independent Study
+days: TBA
+time: TBA
+location: TBA
+professor: Ellingham, Mark N.
+
+name: MATH 8999: Non-candidate Research
+sectionNum: 01
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Aldroubi, Akram
+
+name: MATH 8999: Non-candidate Research
+sectionNum: 02
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Yu, Guoliang
+
+name: MATH 8999: Non-candidate Research
+sectionNum: 03
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Neamtu, Marian
+
+name: MATH 8999: Non-candidate Research
+sectionNum: 04
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Peterson, Jesse
+
+name: MATH 8999: Non-candidate Research
+sectionNum: 05
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Bisch, Dietmar
+
+name: MATH 8999: Non-candidate Research
+sectionNum: 06
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Tschantz, Steven T.
+
+name: MATH 8999: Non-candidate Research
+sectionNum: 07
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Ellingham, Mark N.
+
+name: MATH 8999: Non-candidate Research
+sectionNum: 08
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Kasparov, Gennadi
+
+name: MATH 8999: Non-candidate Research
+sectionNum: 09
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: McKenzie, Ralph N.
+
+name: MATH 8999: Non-candidate Research
+sectionNum: 10
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Olshanskiy, Alexander Y.
+
+name: MATH 8999: Non-candidate Research
+sectionNum: 11
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Sapir, Mark
+
+name: MATH 8999: Non-candidate Research
+sectionNum: 12
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Schumaker, Larry L.
+
+name: MATH 8999: Non-candidate Research
+sectionNum: 13
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Powell, Alexander M.
+
+name: MATH 8999: Non-candidate Research
+sectionNum: 14
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Webb, Glenn F.
+
+name: MATH 8999: Non-candidate Research
+sectionNum: 15
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Tsinakis, Constantine
+
+name: MATH 8999: Non-candidate Research
+sectionNum: 16
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: DiBenedetto, Emmanuele
+
+name: MATH 8999: Non-candidate Research
+sectionNum: 17
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Zheng, Dechao
+
+name: MATH 8999: Non-candidate Research
+sectionNum: 18
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Saff, Edward B.
+
+name: MATH 8999: Non-candidate Research
+sectionNum: 19
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Simonett, Gieri
+
+name: MATH 8999: Non-candidate Research
+sectionNum: 20
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Osin, Denis
+
+name: MATH 8999: Non-candidate Research
+sectionNum: 21
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Hardin, Douglas P.
+
+name: MATH 9600: Seminar in Applied Mathematics
+sectionNum: 01
+hours: 1
+type: Seminar
+days: TR
+time: 02:35p - 03:50p
+location: Stevenson Center 1431
+professor: Schumaker, Larry L.
+
+name: MATH 9600: Seminar in Applied Mathematics
+sectionNum: 02
+hours: 1
+type: Seminar
+days: TR
+time: 02:35p - 03:50p
+location: Stevenson Center 1307
+professor: Bischoff, Marcel
+
+name: MATH 9996: Directed Study
+sectionNum: 01
+hours: 1
+type: Directed Study
+days: TBA
+time: TBA
+location: TBA
+professor: Ellingham, Mark N.
+
+name: MATH 9999: Ph.D. Dissertation Research
+sectionNum: 01
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Aldroubi, Akram
+
+name: MATH 9999: Ph.D. Dissertation Research
+sectionNum: 02
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Bisch, Dietmar
+
+name: MATH 9999: Ph.D. Dissertation Research
+sectionNum: 03
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Ellingham, Mark N.
+
+name: MATH 9999: Ph.D. Dissertation Research
+sectionNum: 04
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Kasparov, Gennadi
+
+name: MATH 9999: Ph.D. Dissertation Research
+sectionNum: 05
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: McKenzie, Ralph N.
+
+name: MATH 9999: Ph.D. Dissertation Research
+sectionNum: 06
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Neamtu, Marian
+
+name: MATH 9999: Ph.D. Dissertation Research
+sectionNum: 07
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Olshanskiy, Alexander Y.
+
+name: MATH 9999: Ph.D. Dissertation Research
+sectionNum: 08
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Sapir, Mark
+
+name: MATH 9999: Ph.D. Dissertation Research
+sectionNum: 09
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Schumaker, Larry L.
+
+name: MATH 9999: Ph.D. Dissertation Research
+sectionNum: 10
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Yu, Guoliang
+
+name: MATH 9999: Ph.D. Dissertation Research
+sectionNum: 11
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Schumaker, Larry L.
+
+name: MATH 9999: Ph.D. Dissertation Research
+sectionNum: 12
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: McKenzie, Ralph N.
+
+name: MATH 9999: Ph.D. Dissertation Research
+sectionNum: 13
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Yu, Guoliang
+
+name: MATH 9999: Ph.D. Dissertation Research
+sectionNum: 14
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Powell, Alexander M.
+
+name: MATH 9999: Ph.D. Dissertation Research
+sectionNum: 15
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Mihalik, Michael L.
+
+name: MATH 9999: Ph.D. Dissertation Research
+sectionNum: 16
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Simonett, Gieri
+
+name: MATH 9999: Ph.D. Dissertation Research
+sectionNum: 17
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Peterson, Jesse
+
+name: MATH 9999: Ph.D. Dissertation Research
+sectionNum: 18
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Tsinakis, Constantine
+
+name: MATH 9999: Ph.D. Dissertation Research
+sectionNum: 19
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Webb, Glenn F.
+
+name: MATH 9999: Ph.D. Dissertation Research
+sectionNum: 20
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Osin, Denis
+
+name: MATH 9999: Ph.D. Dissertation Research
+sectionNum: 21
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Saff, Edward B.
+
+name: MATH 9999: Ph.D. Dissertation Research
+sectionNum: 22
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: DiBenedetto, Emmanuele
+
+name: MATH 9999: Ph.D. Dissertation Research
+sectionNum: 23
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Hardin, Douglas P.
+
+name: MATH 9999: Ph.D. Dissertation Research
+sectionNum: 24
+hours: 0
+type: Dissertation Research
+days: TBA
+time: TBA
+location: TBA
+professor: Jones, Vaughan
+
