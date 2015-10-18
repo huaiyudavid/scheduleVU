@@ -1,0 +1,13 @@
+Things to look up:
+ArrayList and arrays
+Classes and Objects
+	-creating Classes
+	-member functions and instance variables
+Object Oriented Design
+Inheritance and Polymorphism
+Recursion vs Iteration
+Stacks, Queues, Deques
+Depth first search, breadth first search
+Trees
+toString() method
+Comparators
